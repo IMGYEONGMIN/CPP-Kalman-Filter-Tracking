@@ -1,3 +1,6 @@
+https://silicon-vase-b6a.notion.site/SSM-Kalman-Filter-2fc83c4c35088034b91fd21b7df28d07
+
+
 지금까지 공부한 KF를 실제로 구현해보고자 한다
 
 python을 통해 가상의 데이터를 만들고 c++로 KF를 구현하고 가상의 데이터를 KF로 처리한다
